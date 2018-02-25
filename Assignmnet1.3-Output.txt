@@ -1,0 +1,5 @@
+#Output of the print name program
+
+Input your First Name : Sumalatha
+Input your Last Name : Arigela
+Arigela Sumalatha
